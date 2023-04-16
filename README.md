@@ -6,3 +6,7 @@
 
 3. create a new repository in github, and push my change here.
 
+
+
+4. create a file name 'main.py' type 'Welcome to Weight Tracker' and run in terminal
+
